@@ -4,9 +4,9 @@ import { DATA } from './util/data';
 
 const App = () => {
   return (
-    <div>
+    <>
       <Cards cardItems={DATA} />
-    </div>
+    </>
   );
 };
 
