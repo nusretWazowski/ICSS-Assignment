@@ -1,4 +1,4 @@
-import Card, { CardProps } from '../components/cards/Card';
+import Card, { CardProps } from '../../components/cards/Card'
 
 import styles from './Cards.module.css';
 
