@@ -29,11 +29,11 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  height: 320px;
+  height: 320px; /* height of the container - height of the image */
 }
 
 .image {
-  width: 250px;
+  width: 250px; /* width of the container */
   height: 180px;
   border-radius: 5px;
 }
