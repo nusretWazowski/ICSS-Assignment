@@ -1,4 +1,4 @@
-import Cards from './pages/Cards';
+import Cards from './pages/cards/Cards';
 
 import { DATA } from './util/data';
 
